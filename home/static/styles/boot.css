@@ -1,0 +1,198 @@
+body{
+    height: 3000px;
+}
+.image{
+    background-image: url('');
+}
+.color{
+    background-color:#144255;
+    /* color: white; */
+    width: 100%;
+    padding-left: 8%;
+}
+.pad{
+    padding-left: 30px;
+    font-size: 17px;
+    padding-top: 15px;
+}
+.prg{
+    padding-left: 20%;
+    font-size: 17px;
+    padding-top: 15px;
+}
+.enq{
+    padding-top: 17px;
+    padding-left: 30px;
+}
+.boxes{
+    background-color: #144255;
+    height: 350px;
+    width: 728px;
+    /* display: inline; */
+    color: aliceblue;
+    text-align: center;
+    padding-top: 300px;
+    padding-left: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+
+   
+}
+#soft{
+   
+    text-align: left;
+    padding-left: 250px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+}
+p{
+    padding-left: 245px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19.5px;
+}
+
+.image{
+    height: 550px;
+    width: 728px;
+    background-color: #144255 ;
+    display: inline;
+    position: absolute;
+    left: 728px;
+    bottom: 47px;
+    background-image: url('https://www.baabtra.com/assets/images/company/programming-courses-in-calicut.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* margin-left: 0px;
+    margin-top: 300px; */
+    
+
+    
+}
+.first{
+    background-color: #144255;
+    height: 850px;
+}
+.oray{
+    height: 250px;
+    width: 1000px;
+    background-color: red;
+    position: absolute;
+    top: 700px;
+    margin-left: 250px;
+    border-radius: 30px;
+    /* text-align:right; */
+    
+}
+.img{
+    position: relative;
+    left: 40px;
+    top: 60px;
+    width:14%;
+    
+}  
+#affiliation{
+    position: absolute;
+    left: 250px;
+    top: 100px;
+    display: inline;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+#educ{
+    position: absolute;
+    left: 230px;
+    top: 130px;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+#bro{
+    padding-left: 685px;
+    padding-top: 24px;
+    width:500px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.btnn{
+    background-color: #144255;
+    position: relative;
+    left: 650px;
+    top: 25px;
+    border-radius: 20px;
+}
+#heading {
+    color: red;
+    position: absolute;
+top: 1050px;
+left: 390px;
+    
+}
+#content {
+    color: #144255;
+    position: absolute;
+/* top: 970px; */
+top: 1100px;
+left: 60px;
+font-size: 29px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+/* .transi{
+    transition:0.5s linear; ;
+}
+.transi:hover{
+    transform: translateY(-20px);
+} */
+.cards{
+    width: 100px;
+    height: 400px;
+    position: absolute;
+    top: 1300px;
+    padding-left: 16%;
+    
+    
+}
+
+.cardss{
+    width: 100px;
+    height: 400px;
+    /* color: blueviolet; */
+    position: absolute;
+    top: 1300px;
+    padding-left: 35%;
+}
+.cardsss{
+    width: 100px;
+    height: 400px;
+    /* color: blueviolet; */
+    position: absolute;
+    top: 1300px;
+    padding-left: 54%;
+}
+.cardssss{
+    width: 100px;
+    height: 400px;
+    /* color: blueviolet; */
+    position: absolute;
+    top: 1300px;
+    padding-left: 73%;
+}
+
+.posi{
+    
+    width: fit-content;
+    font-size: 20px;
+    height: fit-content;
+    padding-left: 28%;
+    
+}
+.sizec{
+    padding: 7%;
+    padding-left: 33px;
+
+    width:90%;
+}
